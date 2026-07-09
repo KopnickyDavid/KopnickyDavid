@@ -8,7 +8,6 @@ I like turning real problems into usable software — from booking platforms and
 
 [![GitHub](https://img.shields.io/badge/GitHub-KopnickyDavid-181717?style=for-the-badge&logo=github)](https://github.com/KopnickyDavid)
 [![Email](https://img.shields.io/badge/Email-kopnicky%40exporae.sk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kopnicky@exporae.sk)
-[![Website](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://davidlife.club)
 
 </div>
 
